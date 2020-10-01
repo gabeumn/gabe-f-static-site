@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+h1{font-family: "Signika Negative"}
+		h2{font-family: 'Signika Negative'}
+		p {align-content: flex-end}
+		p.inset{outline-style: groove}
